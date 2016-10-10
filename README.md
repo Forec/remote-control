@@ -84,3 +84,6 @@
 * 2016-9-17: Fix some problems in `README.md`.
 * 2016-9-23: Fix links and move `compiled.tar` to cloud storage.
 * 2016-10-7: Build repository.
+
+# License
+All codes in this repository are licensed under the terms you may find in the file named "LICENSE" in this directory.
